@@ -6,25 +6,76 @@ padding: 0;
 }
 .rectanguloUno {
     width: 100%;
-    height: 150px;
-    background-color: rgb(255, 166, 0);
+    height: 200px;
+    background-color: rgb(250, 200, 106);
 }
 
 .rectanguloOscuro {
-    width: 100px;
-    height: 100px;
-    background-color: rgb(218, 141, 0);
+    width: 130px;
+    height: 130px;
+    background-color: rgb(238, 179, 70);
     position: absolute;
-    margin-top: 25px;
-    margin-left:  70px;
+    margin-top: 30px;
+    margin-left:  110px;
 
 }
 
-.rectangulotTes {
-    width: 100px;
-    height: 100px;
-    background-color: rgb(15, 2, 39);
+.rectanguloTres {
+    width: 190px;
+    height: 25px;
+    background-color: rgb(236, 177, 66);
     position: absolute;
-    margin-top: 15px;
-    margin-left:  170px;    
+    margin-top: 19px;
+    margin-left:  410px;
+
+}
+.BlancoUno {
+    width: 390px;
+    height: 13px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 60px;
+    margin-left:  410px;
+
+}
+.BlancoDos{
+    width: 390px;
+    height: 13px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 90px;
+    margin-left:  410px;
+
+}
+.BlancoTres {
+    width: 380px;
+    height: 13px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 120px;
+    margin-left:  410px;
+
+}
+.BlancoCuatro {
+    width: 190px;
+    height: 13px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 150px;
+    margin-left:  410px;
+
+}
+
+
+
+
+
+
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(206, 206, 206);
+    position: absolute;
+    bottom: 0px; 
 }
